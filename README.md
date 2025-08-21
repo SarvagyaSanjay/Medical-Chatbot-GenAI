@@ -1,13 +1,14 @@
-# Medical-Chatbot-GenAI
-# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+# 🏥 Medical-Chatbot-GenAI  
+### 🤖 Build a Complete Medical Chatbot with LLMs + LangChain + Pinecone + Flask + AWS  
 
-# How to run?
-### STEPS:
+---
 
-Clone the repository
+## ⚡ How to Run the Project?
 
+### 🔹 Step 1: Clone the Repository
 ```bash
-git clonehttps://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+git clone https://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
