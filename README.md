@@ -1,5 +1,5 @@
-# 🏥 Medical-Chatbot-GenAI  
-### 🤖 Build a Complete Medical Chatbot with LLMs + LangChain + Pinecone + Flask + AWS  
+# 🏥 Healthcare-Chatbot-GenAI  
+### 🤖 Build a Complete Healthcare/Medical Chatbot with LLMs + LangChain + Pinecone + Flask + AWS  
 
 ---
 
