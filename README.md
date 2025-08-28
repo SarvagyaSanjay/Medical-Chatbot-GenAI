@@ -4,9 +4,13 @@
 ## 🤖 Build a Complete Healthcare/Medical Chatbot
 ### Tools Used:
 Languages & Frameworks: Python, Flask, LangChain
+
 Databases: Pinecone (cloud-based vector database)
+
 Models: OpenAI (for the large language model), Sentence Transformers (for embeddings), Hugging Face Hub (for open-source models)
+
 Version Control: Git and GitHub
+
 Cloud Platform: AWS (for deployment)
 
 ---
