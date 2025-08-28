@@ -1,4 +1,4 @@
-#Healthcare-Chatbot-GenAI
+# Healthcare-Chatbot-GenAI
 
 <img width="1173" height="841" alt="image" src="https://github.com/user-attachments/assets/39e3ea24-c5af-4786-a508-de2dd38d4833" />
 
