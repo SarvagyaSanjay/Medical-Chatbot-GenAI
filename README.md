@@ -18,11 +18,6 @@ Cloud Platform: AWS (for deployment)
 
 ## ⚡ How to Run the Project?
 
-### 🔹 Step 1: Clone the Repository
-```bash
-git clone https://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
-
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
